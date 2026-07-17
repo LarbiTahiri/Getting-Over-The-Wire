@@ -1,6 +1,6 @@
 # Getting-Over-The-Wire
 This repository is for getting over the wire explaining the levels and the concepts to help you pass the levels of Getting Over The Wire.
-1-What is Getting Over the wire?
+What is Getting Over the wire?
 Getting Over The Wire, is rather one of the best beginner friendly cybersecurity wargames it starts with multiple stages, each stage is for a certain level of knowledge, for example Bandit is the first stage of Getting Over The Wire it consists of 33 levels, each stage with its own set of levels and over time you have to combine the skills you learned previously to solve the new challenges.
 
 2-What Will i learn from Getting Over The Wire?
